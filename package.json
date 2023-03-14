@@ -1,0 +1,7 @@
+{
+  "name": "ts-esm",
+  "type": "module",
+  "dependencies": {
+    "my-pkg": "1.0.0"
+  }
+}
