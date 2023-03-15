@@ -1,3 +1,2 @@
-import pkg, { msg } from 'my-pkg'
-console.log(pkg)
+import {msg} from 'my-pkg'
 console.log(msg)
